@@ -1,3 +1,5 @@
+# Tally Counter Example
+Run with `npm run dev` (since this is a Vite project). 
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
